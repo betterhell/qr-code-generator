@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/94512220/230870152-f87a16ed-821a-4986-8714-985c2d882bb6.png)
 
-How to use
+How to use?
 <ol>
 <li>Paste your link</li>
 <li>Click to Generate</li>
@@ -12,7 +12,7 @@ How to use
 <li>Enjoy :)</li>
 </ol>
 
-Used: 
+Powered by: 
 <ul>
 <li>React.js</li>
 <li>TypeScript</li>
