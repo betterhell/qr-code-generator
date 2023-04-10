@@ -11,4 +11,4 @@ Used:
 </ol
 
 Library:
-<a target="_blank" href="https://www.npmjs.com/package/react-qr-code">React QR Code</a>
+<a href="https://www.npmjs.com/package/react-qr-code" target="_blank">React QR Code</a>
