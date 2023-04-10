@@ -2,6 +2,8 @@
 
 <p>This a simple QR Gen</p>
 
+![image](https://user-images.githubusercontent.com/94512220/230870152-f87a16ed-821a-4986-8714-985c2d882bb6.png)
+
 Used: 
 <ol>
 <li>React.js</li>
